@@ -1,4 +1,4 @@
-module github.com/creack/pty
+module github.com/ActiveState/pty
 
 go 1.13
 
